@@ -1,0 +1,6 @@
+{
+  "name": "Chess 3D",
+  "description": "Realistic 3D Chess with interactive 3D board rendering, full chess rules, smart AI engine, tactics puzzles, customizable themes, game analysis and move coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

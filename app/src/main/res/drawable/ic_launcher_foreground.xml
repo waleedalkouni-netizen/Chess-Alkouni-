@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glow / shadow effect -->
+    <path
+        android:pathData="M54,20 L58,26 L64,22 L62,34 L72,30 L66,42 L76,46 L65,58 L72,82 L36,82 L43,58 L32,46 L42,42 L36,30 L46,34 L44,22 L50,26 Z"
+        android:fillColor="#0D0A14"
+        android:fillAlpha="0.4" />
+    
+    <!-- Chess King 3D Motif -->
+    <!-- Base -->
+    <path
+        android:pathData="M34,84 h40 v4 a2,2 0 0,1 -2,2 h-36 a2,2 0 0,1 -2,-2 z"
+        android:fillColor="#D0BCFF" />
+    <path
+        android:pathData="M38,78 h32 v4 h-32 z"
+        android:fillColor="#E8DEF8" />
+    <!-- Body -->
+    <path
+        android:pathData="M42,56 C42,70 38,76 38,76 h32 C70,76 66,70 66,56 Z"
+        android:fillColor="#ECE6F0" />
+    <!-- Collar -->
+    <path
+        android:pathData="M40,54 h28 v3 h-28 z"
+        android:fillColor="#D0BCFF" />
+    <!-- Head / Crown -->
+    <path
+        android:pathData="M42,36 L36,44 L44,46 L42,52 L66,52 L64,46 L72,44 L66,36 L54,42 Z"
+        android:fillColor="#F3EDF7" />
+    <!-- Golden Accent Band -->
+    <path
+        android:pathData="M42,48 h24 v4 h-24 z"
+        android:fillColor="#FFD700" />
+    <!-- Top Cross -->
+    <path
+        android:pathData="M52,22 h4 v12 h-4 z"
+        android:fillColor="#FFD700" />
+    <path
+        android:pathData="M48,26 h12 v4 h-12 z"
+        android:fillColor="#FFD700" />
+</vector>
